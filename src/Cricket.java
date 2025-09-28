@@ -29,5 +29,6 @@ public class Cricket {
             }
         }
         System.out.print("The highest score is:"+ maxMark);
+        System.out.println("Hello");
     }
 }
