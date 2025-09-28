@@ -19,6 +19,8 @@ public class Demo3 {
             default:
                 System.out.println("No match...");
         }
+
+        System.out.println("Hey");
     }
 
 }
